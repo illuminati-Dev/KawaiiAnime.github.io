@@ -4,6 +4,7 @@ from utils.others import get_atitle, get_genre, get_t_from_u, get_urls
 from utils.anilist import Anilist
 from utils.techzapi import TechZApi
 
+<!-- Hi -->
 
 def get_genre_html(li):
     x = """<a>{}</a>"""
